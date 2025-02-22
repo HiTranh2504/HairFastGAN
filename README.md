@@ -112,5 +112,5 @@ Nếu bạn muốn cải thiện HairFastGAN, hãy fork repository và gửi pul
 
 ---
 ## 6. Liên hệ
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ qua email: `support@hairfastgan.com`.
+Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ qua email: `duongchitrung1104.com`.
 
